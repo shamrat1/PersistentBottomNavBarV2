@@ -13,7 +13,7 @@ class BottomNavStyle19 extends StatelessWidget {
     return this.navBarEssentials!.navBarHeight == 0
         ? SizedBox.shrink()
         : AnimatedContainer(
-            width: isSelected ? 120 : 50,
+            width: isSelected ? 120 : 110,
             height: height! / 1.5,
             duration:
                 this.navBarEssentials!.itemAnimationProperties?.duration ??
