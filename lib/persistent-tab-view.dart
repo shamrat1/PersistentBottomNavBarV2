@@ -41,6 +41,7 @@ part 'nav-bar-styles/style-6-bottom-nav-bar.widget.dart';
 part 'nav-bar-styles/style-7-bottom-nav-bar.widget.dart';
 part 'nav-bar-styles/style-8-bottom-nav-bar.widget.dart';
 part 'nav-bar-styles/style-9-bottom-nav-bar.widget.dart';
+part 'nav-bar-styles/style-19-bottom-nav-bar.widget.dart';
 //Neuomorphic-Card
 part 'neumorphic-package-by-serge-software/neumorphic-card.dart';
 //Main TabView Widget
